@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 
+
 app = FastAPI()
 data_file_path = 'data.csv'
 image_file_path = 'image.png'
